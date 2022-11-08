@@ -11,3 +11,5 @@ license: other
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+
+CREDITS FROM https://huggingface.co/spaces/Gradio-Blocks/neon-tts-plugin-coqui/tree/main
